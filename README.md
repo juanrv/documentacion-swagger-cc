@@ -1,1 +1,1 @@
-# prueba-documentacion
+# Documentacion Swagger Proyecto COGNICARE - Componente Centralizador
